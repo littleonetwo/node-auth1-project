@@ -8,16 +8,7 @@
     "server": "nodemon index.js",
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LoralieFlint/node-auth1-project.git"
-  },
-  "author": "Loralie-Flint",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LoralieFlint/node-auth1-project/issues"
-  },
-  "homepage": "https://github.com/LoralieFlint/node-auth1-project#readme",
+  
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-session-knex": "^1.6.0",
